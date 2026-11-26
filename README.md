@@ -18,6 +18,10 @@ A collection of articles and notes on software and technology topics, written in
 ### Web Scraping
 - What Is Web Scraping and How Can We Use It? — [English](Web-Scraping/what-is-web-scraping-en.md) | [မြန်မာ](Web-Scraping/what-is-web-scraping-mm.md)
 
+### Artificial Intelligence
+- Generative AI (Gen-AI) — [English](Artificial-Intelligence/generative-ai-en.md) | [မြန်မာ](Artificial-Intelligence/generative-ai-mm.md)
+- Prompt Engineering — [English](Artificial-Intelligence/prompt-engineering-en.md) | [မြန်မာ](Artificial-Intelligence/prompt-engineering-mm.md)
+
 ### Docker
 - What Are Docker and Docker Compose? — [English](Docker/docker-and-docker-compose-en.md) | [မြန်မာ](Docker/docker-and-docker-compose-mm.md)
 
