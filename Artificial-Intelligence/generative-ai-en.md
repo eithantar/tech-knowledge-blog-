@@ -23,8 +23,6 @@ Generative AI can produce the following types of output:
 - **Traditional AI:** Looks at a photo and only classifies or predicts — "Is this a cat or a dog?"
 - **Generative AI:** When you say "Draw me a picture of a cat," it creates a brand-new cat image that never existed before.
 
-> **AWS Exam Tip:** For the AWS AI Practitioner exam, remember the key fact: **"Gen-AI is a subset of Deep Learning."**
-
 ## 2. What Is a Foundation Model (FM)?
 
 You can think of a Foundation Model as the "foundation" or the "knowledge base" of AI.
@@ -48,7 +46,7 @@ You can think of a Foundation Model as the "foundation" or the "knowledge base" 
 
 ### Two License Types
 
-This is important to know for the exam. Models can be divided into two types:
+Models can be divided into two types:
 
 - **Open-source (free):** Anyone can use and modify them. For example, Meta's Llama or Google's BERT.
 - **Commercial License:** You pay a fee or use them under specific terms. For example, models from OpenAI and Anthropic.
@@ -77,8 +75,6 @@ LLMs are skilled at almost any task related to language:
 ### A Well-Known Example
 
 - **GPT-4:** An LLM built by OpenAI and the main technology behind ChatGPT.
-
-> **AWS Exam Tip:** If the exam asks about LLMs, remember that they are based on **"Text Data"** and perform **"Language Tasks."**
 
 ## 4. How Generative Language Models Work
 

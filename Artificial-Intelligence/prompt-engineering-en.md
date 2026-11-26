@@ -165,7 +165,7 @@ Characters that signal the AI where to stop generating text.
 
 ## 5. Prompt Latency
 
-Another important topic for the AWS Certified AI Practitioner exam is **Prompt Latency**. When businesses use AI in practice (for example, in a chatbot), latency decides how fast answers come back.
+Another important topic is **Prompt Latency**. When businesses use AI in practice (for example, in a chatbot), latency decides how fast answers come back.
 
 ### What Is Latency?
 
@@ -182,7 +182,7 @@ Latency can change depending on the following:
 
 ### Factors That Do NOT Affect Latency (Important!)
 
-Remember this especially for the exam. Changing the following parameters does **not** change the model's response speed:
+Changing the following parameters does **not** change the model's response speed:
 
 - Top P
 - Top K
@@ -408,7 +408,7 @@ But the attacker fills it in like this:
 
 ### Why Is This Important to Know?
 
-As an AWS AI Practitioner, when building AI applications you need:
+When building AI applications, you need:
 
 - **Safety Barriers:** Filter the input coming from users.
 - **Guardrails for Amazon Bedrock:** On AWS, use the Guardrails for Amazon Bedrock service to block inappropriate words and harmful instructions, and prevent injections like this.
