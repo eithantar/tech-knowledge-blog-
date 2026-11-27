@@ -13,4 +13,4 @@ Articles and notes about software design, architecture and engineering practices
 
 ## Articles
 
-_Coming soon._
+- Client-Server Architecture and Three-Tier Architecture — [English](client-server-and-three-tier-architecture-en.md) | [မြန်မာ](client-server-and-three-tier-architecture-mm.md)
