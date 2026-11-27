@@ -12,6 +12,7 @@ A collection of articles and notes on software and technology topics, written in
 | [AWS](AWS/README.md) | Amazon Web Services and cloud computing |
 | [Software Engineering](Software-Engineering/README.md) | Design, architecture and engineering practices |
 | [Docker](Docker/) | Containers, Docker and Docker Compose |
+| [API](API/) | How applications talk to each other |
 
 ## Articles
 
@@ -24,6 +25,9 @@ A collection of articles and notes on software and technology topics, written in
 
 ### Docker
 - What Are Docker and Docker Compose? — [English](Docker/docker-and-docker-compose-en.md) | [မြန်မာ](Docker/docker-and-docker-compose-mm.md)
+
+### API
+- What Is an API and How Does It Work? — [English](API/what-is-api-en.md) | [မြန်မာ](API/what-is-api-mm.md)
 
 ## Language Convention
 
