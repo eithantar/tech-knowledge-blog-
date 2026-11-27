@@ -16,6 +16,7 @@ A collection of articles and notes on software and technology topics, written in
 | [WebSocket](WebSocket/) | Real-time, two-way communication |
 | [Web Application](Web-Application/) | How web apps work: frontend, backend and database |
 | [Web Development](Web-Development/) | How web apps are built: roles, process, tools and roadmap |
+| [Git](Git/) | Version control with Git and GitHub |
 
 ## Articles
 
@@ -25,6 +26,9 @@ A collection of articles and notes on software and technology topics, written in
 ### Artificial Intelligence
 - Generative AI (Gen-AI) — [English](Artificial-Intelligence/generative-ai-en.md) | [မြန်မာ](Artificial-Intelligence/generative-ai-mm.md)
 - Prompt Engineering — [English](Artificial-Intelligence/prompt-engineering-en.md) | [မြန်မာ](Artificial-Intelligence/prompt-engineering-mm.md)
+
+### Software Engineering
+- Client-Server Architecture and Three-Tier Architecture — [English](Software-Engineering/client-server-and-three-tier-architecture-en.md) | [မြန်မာ](Software-Engineering/client-server-and-three-tier-architecture-mm.md)
 
 ### Docker
 - What Are Docker and Docker Compose? — [English](Docker/docker-and-docker-compose-en.md) | [မြန်မာ](Docker/docker-and-docker-compose-mm.md)
@@ -40,6 +44,9 @@ A collection of articles and notes on software and technology topics, written in
 
 ### Web Development
 - What Is Web Development? A Beginner's Guide — [English](Web-Development/what-is-web-development-en.md) | [မြန်မာ](Web-Development/what-is-web-development-mm.md)
+
+### Git
+- What Is Git? A Beginner's Guide to Version Control — [English](Git/what-is-git-en.md) | [မြန်မာ](Git/what-is-git-mm.md)
 
 ## Language Convention
 
