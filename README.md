@@ -15,6 +15,7 @@ A collection of articles and notes on software and technology topics, written in
 | [API](API/) | How applications talk to each other |
 | [WebSocket](WebSocket/) | Real-time, two-way communication |
 | [Web Application](Web-Application/) | How web apps work: frontend, backend and database |
+| [Web Development](Web-Development/) | How web apps are built: roles, process, tools and roadmap |
 
 ## Articles
 
@@ -36,6 +37,9 @@ A collection of articles and notes on software and technology topics, written in
 
 ### Web Application
 - What Is a Web Application and How Does It Work? — [English](Web-Application/what-is-web-application-en.md) | [မြန်မာ](Web-Application/what-is-web-application-mm.md)
+
+### Web Development
+- What Is Web Development? A Beginner's Guide — [English](Web-Development/what-is-web-development-en.md) | [မြန်မာ](Web-Development/what-is-web-development-mm.md)
 
 ## Language Convention
 
