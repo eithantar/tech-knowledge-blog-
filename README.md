@@ -14,6 +14,7 @@ A collection of articles and notes on software and technology topics, written in
 | [Docker](Docker/) | Containers, Docker and Docker Compose |
 | [API](API/) | How applications talk to each other |
 | [WebSocket](WebSocket/) | Real-time, two-way communication |
+| [Web Application](Web-Application/) | How web apps work: frontend, backend and database |
 
 ## Articles
 
@@ -32,6 +33,9 @@ A collection of articles and notes on software and technology topics, written in
 
 ### WebSocket
 - What Is WebSocket and How Does It Work? — [English](WebSocket/what-is-websocket-en.md) | [မြန်မာ](WebSocket/what-is-websocket-mm.md)
+
+### Web Application
+- What Is a Web Application and How Does It Work? — [English](Web-Application/what-is-web-application-en.md) | [မြန်မာ](Web-Application/what-is-web-application-mm.md)
 
 ## Language Convention
 
