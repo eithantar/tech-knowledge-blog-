@@ -13,6 +13,7 @@ A collection of articles and notes on software and technology topics, written in
 | [Software Engineering](Software-Engineering/README.md) | Design, architecture and engineering practices |
 | [Docker](Docker/) | Containers, Docker and Docker Compose |
 | [API](API/) | How applications talk to each other |
+| [WebSocket](WebSocket/) | Real-time, two-way communication |
 
 ## Articles
 
@@ -28,6 +29,9 @@ A collection of articles and notes on software and technology topics, written in
 
 ### API
 - What Is an API and How Does It Work? — [English](API/what-is-api-en.md) | [မြန်မာ](API/what-is-api-mm.md)
+
+### WebSocket
+- What Is WebSocket and How Does It Work? — [English](WebSocket/what-is-websocket-en.md) | [မြန်မာ](WebSocket/what-is-websocket-mm.md)
 
 ## Language Convention
 
